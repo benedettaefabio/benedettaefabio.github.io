@@ -68,7 +68,7 @@
       "titolo": "Per mantenere vivi i ricordi",
       "prezzo": 950,
       "foto": "img/fotocamera.jpg",
-      "regalato": false
+      "regalato": true
     }
   ],
   "corredo_letto": [
