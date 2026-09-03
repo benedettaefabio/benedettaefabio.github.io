@@ -12,7 +12,7 @@
       "titolo": "Il profumo del tè e dei momenti lenti",
       "prezzo": 179,
       "foto": "img/bollitore.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "tostapane",
