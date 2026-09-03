@@ -5,7 +5,7 @@
       "titolo": "Una ricarica di energia e freschezza",
       "prezzo": 179,
       "foto": "img/spremiagrumi.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "bollitore",
