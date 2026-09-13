@@ -61,7 +61,7 @@
       "titolo": "Il rimedio perfetto per rinfrescare gli animi nei giorni caldi",
       "prezzo": 140,
       "foto": "img/gelatiera.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "fotocamera",
