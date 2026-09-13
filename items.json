@@ -40,7 +40,7 @@
       "titolo": "Per montare a neve i nostri sogni più dolci",
       "prezzo": 159,
       "foto": "img/sbattitore.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "tagliere",
