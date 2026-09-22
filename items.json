@@ -118,7 +118,7 @@
       "id": "guanciale-piuma",
       "titolo": "Guanciale in piuma – mis 48x78",
       "prezzo": 84,
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "trapunta-velluto",
