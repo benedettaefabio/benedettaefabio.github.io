@@ -144,7 +144,7 @@
       "id": "teli-roma",
       "titolo": "Teli spugna Roma",
       "prezzo": 120,
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "scendidoccia",
