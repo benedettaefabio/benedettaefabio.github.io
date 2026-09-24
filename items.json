@@ -150,7 +150,7 @@
       "id": "scendidoccia",
       "titolo": "Tappeti scendidoccia",
       "prezzo": 36,
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "tappeto-elegance",
