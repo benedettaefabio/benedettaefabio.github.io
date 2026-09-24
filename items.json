@@ -112,7 +112,7 @@
       "id": "guanciale-lattice",
       "titolo": "Guanciale lattice – mis 70x140",
       "prezzo": 138,
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "guanciale-piuma",
