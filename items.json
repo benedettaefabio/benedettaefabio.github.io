@@ -132,7 +132,7 @@
       "id": "spugna-roma",
       "titolo": "Coppia spugna Roma",
       "prezzo": 132,
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "spugna-esse",
