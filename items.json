@@ -26,7 +26,7 @@
       "titolo": "Il vero espresso italiano a casa",
       "prezzo": 869,
       "foto": "img/espresso.jpg",
-      "regalato": false
+      "regalato": true
     },
     {
       "id": "frigorifero",
